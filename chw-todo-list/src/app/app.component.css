@@ -1,0 +1,17 @@
+.navbar-brand{
+    color: beige;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbar-brand:hover{
+    color: chocolate;
+}
+.navbar-nav .nav-item .nav-link{
+    color: beige;
+    text-transform: uppercase;
+}
+.navbar-nav .nav-item .nav-link:hover{
+color: cornflowerblue;
+}
+.title{
+    margin-right: 500px;
+}
